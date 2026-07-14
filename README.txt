@@ -1,0 +1,1 @@
+Sustituye TU_CLAVE_API por tu clave y abre con Live Server o GitHub Pages.

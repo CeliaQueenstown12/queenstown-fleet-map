@@ -7,17 +7,213 @@
     "maps": "https://www.google.com/maps/place/43.206943,-2.034616"
   },
   {
-    "nombre": "Bera de Bidasoa",
+    "nombre": "Bera De Bidasoa",
     "proveedor": "VRIO",
     "latitud": 43.276101,
     "longitud": -1.7013952,
     "maps": "https://www.google.com/maps/place/43.276101,-1.7013952"
   },
   {
-    "nombre": "Rubí",
+    "nombre": "Rubi",
     "proveedor": "VRIO",
     "latitud": 41.469499,
     "longitud": 2.029647,
     "maps": "https://www.google.com/maps/place/41.469499,2.029647"
+  },
+  {
+    "nombre": "Figueres",
+    "proveedor": "VRIO",
+    "latitud": 42.299837,
+    "longitud": 2.939379,
+    "maps": "https://www.google.com/maps/place/42.299837,2.939379"
+  },
+  {
+    "nombre": "Igualada Les Comes",
+    "proveedor": "VRIO",
+    "latitud": 41.589188,
+    "longitud": 1.622476,
+    "maps": "https://www.google.com/maps/place/41.589188,1.622476"
+  },
+  {
+    "nombre": "Marsol Manresa",
+    "proveedor": "VRIO",
+    "latitud": 41.71447,
+    "longitud": 1.84957,
+    "maps": "https://www.google.com/maps/place/41.71447,1.84957"
+  },
+  {
+    "nombre": "Puerto Barcelona",
+    "proveedor": "VRIO",
+    "latitud": 41.328501,
+    "longitud": 2.155914,
+    "maps": "https://www.google.com/maps/place/41.328501,2.155914"
+  },
+  {
+    "nombre": "Sallent",
+    "proveedor": "VRIO",
+    "latitud": 41.807296,
+    "longitud": 1.899645,
+    "maps": "https://www.google.com/maps/place/41.807296,1.899645"
+  },
+  {
+    "nombre": "Sant Andreu De La Barca",
+    "proveedor": "VRIO",
+    "latitud": 41.453543,
+    "longitud": 1.969189,
+    "maps": "https://www.google.com/maps/place/41.453543,1.969189"
+  },
+  {
+    "nombre": "Tarrega",
+    "proveedor": "VRIO",
+    "latitud": 41.662743,
+    "longitud": 1.133263,
+    "maps": "https://www.google.com/maps/place/41.662743,1.133263"
+  },
+  {
+    "nombre": "Vilafranca Del Penedès",
+    "proveedor": "VRIO",
+    "latitud": 41.338979,
+    "longitud": 1.687729,
+    "maps": "https://www.google.com/maps/place/41.338979,1.687729"
+  },
+  {
+    "nombre": "Andamur Pamplona",
+    "proveedor": "VRIO",
+    "latitud": 42.732646,
+    "longitud": -1.613395,
+    "maps": "https://www.google.com/maps/place/42.732646,-1.613395"
+  },
+  {
+    "nombre": "Área De Servicio Agetrans 24H",
+    "proveedor": "VRIO",
+    "latitud": 37.728806,
+    "longitud": -1.54475,
+    "maps": "https://www.google.com/maps/place/37.728806,-1.544750"
+  },
+  {
+    "nombre": "Iruña De Oca",
+    "proveedor": "VRIO",
+    "latitud": 42.819456,
+    "longitud": -2.782358,
+    "maps": "https://www.google.com/maps/place/42.819456,-2.782358"
+  },
+  {
+    "nombre": "Ametlla Del Valles",
+    "proveedor": "VRIO",
+    "latitud": 41.6434717,
+    "longitud": 2.2681004,
+    "maps": "https://www.google.com/maps/place/41.6434717,2.2681004"
+  },
+  {
+    "nombre": "Fornells",
+    "proveedor": "VRIO",
+    "latitud": 41.93626,
+    "longitud": 2.7972,
+    "maps": "https://www.google.com/maps/place/41.936260,2.797200"
+  },
+  {
+    "nombre": "Montblanc",
+    "proveedor": "VRIO",
+    "latitud": 41.391215,
+    "longitud": 1.14128,
+    "maps": "https://www.google.com/maps/place/41.391215,1.14128"
+  },
+  {
+    "nombre": "Andamur Guarromán",
+    "proveedor": "VRIO",
+    "latitud": 38.142732,
+    "longitud": -3.72311,
+    "maps": "https://www.google.com/maps/place/38.142732,-3.72311"
+  },
+  {
+    "nombre": "Calsina Y Carré",
+    "proveedor": "VRIO",
+    "latitud": 42.3174633,
+    "longitud": 2.934964,
+    "maps": "https://www.google.com/maps/place/42.3174633,2.934964"
+  },
+  {
+    "nombre": "Andamur El Límite",
+    "proveedor": "VRIO",
+    "latitud": 37.481387,
+    "longitud": -1.869878,
+    "maps": "https://www.google.com/maps/place/37.481387,-1.869878"
+  },
+  {
+    "nombre": "Andamur Lorca",
+    "proveedor": "VRIO",
+    "latitud": 37.641912,
+    "longitud": -1.726455,
+    "maps": "https://www.google.com/maps/place/37.641912,-1.726455"
+  },
+  {
+    "nombre": "Villafranca De Los Barros",
+    "proveedor": "VRIO",
+    "latitud": 38.557111,
+    "longitud": -6.359583,
+    "maps": "https://www.google.com/maps/place/38.557111,-6.359583"
+  },
+  {
+    "nombre": "Pamanes",
+    "proveedor": "VRIO",
+    "latitud": 43.359312,
+    "longitud": -3.767511,
+    "maps": "https://www.google.com/maps/place/43.359312,-3.767511"
+  },
+  {
+    "nombre": "Beneixida",
+    "proveedor": "VRIO",
+    "latitud": 39.05895,
+    "longitud": -0.544881,
+    "maps": "https://www.google.com/maps/place/39.058950,-0.544881"
+  },
+  {
+    "nombre": "Villarrubio",
+    "proveedor": "VRIO",
+    "latitud": 39.961377,
+    "longitud": -2.92695,
+    "maps": "https://www.google.com/maps/place/39.961377,-2.92695"
+  },
+  {
+    "nombre": "Estación De Servicio El Oliveral A3, S.l.",
+    "proveedor": "VRIO",
+    "latitud": 39.47278,
+    "longitud": -0.53556,
+    "maps": "https://www.google.com/maps/place/39.472780,-0.535560"
+  },
+  {
+    "nombre": "Arevalo",
+    "proveedor": "VRIO",
+    "latitud": 41.07853,
+    "longitud": -4.73329,
+    "maps": "https://www.google.com/maps/place/41.07853,-4.73329"
+  },
+  {
+    "nombre": "Aranda",
+    "proveedor": "VRIO",
+    "latitud": 41.6589,
+    "longitud": -3.7175,
+    "maps": "https://www.google.com/maps/place/41.6589,-3.7175"
+  },
+  {
+    "nombre": "Ruta 4",
+    "proveedor": "VRIO",
+    "latitud": 37.50825,
+    "longitud": -5.38853,
+    "maps": "https://www.google.com/maps/place/37.508250,-5.38853"
+  },
+  {
+    "nombre": "El Casar De Talavera",
+    "proveedor": "VRIO",
+    "latitud": 39.96353,
+    "longitud": -4.91924,
+    "maps": "https://www.google.com/maps/place/39.96353,-4.91924"
+  },
+  {
+    "nombre": "La Joyosa",
+    "proveedor": "VRIO",
+    "latitud": 41.73613,
+    "longitud": -1.06733,
+    "maps": "https://www.google.com/maps/place/41.73613,-1.06733"
   }
 ]
