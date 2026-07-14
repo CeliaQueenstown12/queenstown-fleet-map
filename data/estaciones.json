@@ -14,7 +14,7 @@
     "maps": "https://www.google.com/maps/place/43.276101,-1.7013952"
   },
   {
-    "nombre": "Rubi",
+    "nombre": " Rubi",
     "proveedor": "VRIO",
     "latitud": 41.469499,
     "longitud": 2.029647,
@@ -84,6 +84,13 @@
     "maps": "https://www.google.com/maps/place/42.732646,-1.613395"
   },
   {
+    "nombre": "Andamur San Román - Araia",
+    "proveedor": "VRIO",
+    "latitud": 42.8637975,
+    "longitud": -2.3240955,
+    "maps": "https://www.google.com/maps/place/%C3%81rea+de+Servicio+Andamur+San+Rom%C3%A1n/@42.8637975,-2.3240955,877m/data=!3m1!1e3!4m13!1m2!2m1!1sAndamur+cerca+de+Araia!3m9!1s0xd5022edf02e6a01:0x8848b5daf11c2423!5m2!4m1!1i2!8m2!3d42.8639435!4d-2.3205851!15sChZBbmRhbXVyIGNlcmNhIGRlIEFyYWlhIgOIAQFaGCIWYW5kYW11ciBjZXJjYSBkZSBhcmFpYZIBC2dhc19zdGF0aW9u4AEA!16s%2Fg%2F1z44b9ct7!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
     "nombre": "Área De Servicio Agetrans 24H",
     "proveedor": "VRIO",
     "latitud": 37.728806,
@@ -105,7 +112,7 @@
     "maps": "https://www.google.com/maps/place/41.6434717,2.2681004"
   },
   {
-    "nombre": "Fornells",
+    "nombre": " Fornells",
     "proveedor": "VRIO",
     "latitud": 41.93626,
     "longitud": 2.7972,
@@ -196,7 +203,7 @@
     "maps": "https://www.google.com/maps/place/41.6589,-3.7175"
   },
   {
-    "nombre": "Ruta 4",
+    "nombre": " Ruta 4",
     "proveedor": "VRIO",
     "latitud": 37.50825,
     "longitud": -5.38853,
@@ -215,5 +222,152 @@
     "latitud": 41.73613,
     "longitud": -1.06733,
     "maps": "https://www.google.com/maps/place/41.73613,-1.06733"
+  },
+  {
+    "nombre": "ALSASUA",
+    "proveedor": "IDS",
+    "latitud": 42.9157721,
+    "longitud": -2.1867933,
+    "maps": "https://www.google.com/maps/place/IDS+Q8+Alsasua/@42.9157721,-2.1867933,844m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd503f29f0a6b0b7:0x829e0c1b164879cc!8m2!3d42.9157721!4d-2.1842184!16s%2Fg%2F11cr_g0h4l!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "BENAVENTE II",
+    "proveedor": "IDS",
+    "latitud": 42.0059823,
+    "longitud": -5.6663697,
+    "maps": "https://www.google.com/maps/place/IDS+Benavente+-+Seur/@42.0059823,-5.6663697,856m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd384e9d9fe854ef:0xa8a3b877d74cc340!8m2!3d42.0059823!4d-5.6637948!16s%2Fg%2F11d_trr095!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "PALENCIA",
+    "proveedor": "IDS",
+    "latitud": 41.9391992,
+    "longitud": -4.5024264,
+    "maps": "https://www.google.com/maps/place/IDS+Palencia/@41.9391992,-4.5024264,857m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd47ae92b4ccd2e7:0x7c2c1bf5e023563e!8m2!3d41.9391992!4d-4.4998515!16s%2Fg%2F11fxvlsjgt!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "ANTEQUERA",
+    "proveedor": "IDS",
+    "latitud": 37.0378544,
+    "longitud": -4.5251178,
+    "maps": "https://www.google.com/maps/place/IDS/@37.0378544,-4.5251178,920m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd728f804812273b:0xf481d27e8d3142cc!8m2!3d37.0378544!4d-4.5225429!16s%2Fg%2F11ygfndz_q!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "SAGUNTO",
+    "proveedor": "IDS",
+    "latitud": 39.7420131,
+    "longitud": -0.3438171,
+    "maps": "https://www.google.com/maps/place/IDS/@39.7420131,-0.3438171,99430m/data=!3m1!1e3!4m6!3m5!1s0xd603e2d0e634099:0x2ae4c92aa6cb9fbf!8m2!3d39.642861!4d-0.260111!16s%2Fg%2F11kp_pq6pv!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "ZARAGOZA PLAZA",
+    "proveedor": "IDS",
+    "latitud": 41.6384003,
+    "longitud": -0.9904182,
+    "maps": "https://www.google.com/maps/place/IDS+Zaragoza/@41.6384003,-0.9904182,861m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd596978c164774d:0x6d50020c4b415b6b!8m2!3d41.6384003!4d-0.9878433!16s%2Fg%2F11cn0_0xn0!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "GIJON",
+    "proveedor": "IDS",
+    "latitud": 43.5220986,
+    "longitud": -5.7183457,
+    "maps": "https://www.google.com/maps/place/Estaci%C3%B3n+de+Servicio+IDS/@43.5220986,-5.7183457,836m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd367d73e183b415:0x87b17bfcab641d68!8m2!3d43.5220986!4d-5.7157708!16s%2Fg%2F11lt1xg0b6!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "GUADIX",
+    "proveedor": "IDS",
+    "latitud": 37.3368288,
+    "longitud": -3.0951498,
+    "maps": "https://www.google.com/maps/place/IDS/@37.3368288,-3.0951498,916m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd6fd4aeaa3a6fd9:0xf55452808bf7fa09!8m2!3d37.3368288!4d-3.0925749!16s%2Fg%2F11gfjtdrsv!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "BADAJOZ",
+    "proveedor": "IDS",
+    "latitud": 38.8980805,
+    "longitud": -6.9926232,
+    "maps": "https://www.google.com/maps/place/IDS+Q8+Badajoz/@38.8980805,-6.9926232,897m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd16e466ae142a8f:0xbbd7d8e56d2b9bc8!8m2!3d38.8980805!4d-6.9900483!16s%2Fg%2F11rq210z8j!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "ALDEHUELA/SALAMANCA",
+    "proveedor": "IDS",
+    "latitud": 40.8499828,
+    "longitud": -6.0529434,
+    "maps": "https://www.google.com/maps/place/Ids+Aldehuela+de+l%C3%A1+B%C3%B3veda/@40.8499828,-6.0529434,872m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd3ec100538392a9:0xbb95c90946dbd4d7!8m2!3d40.8499828!4d-6.0503685!16s%2Fg%2F11wc17zqff!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "VILLAFRANCA DE LOS BARROS",
+    "proveedor": "IDS",
+    "latitud": 40.8499828,
+    "longitud": -6.0529434,
+    "maps": "https://www.google.com/maps/place/Ids+Aldehuela+de+l%C3%A1+B%C3%B3veda/@40.8499828,-6.0529434,872m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd3ec100538392a9:0xbb95c90946dbd4d7!8m2!3d40.8499828!4d-6.0503685!16s%2Fg%2F11wc17zqff!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "GUARROMAN",
+    "proveedor": "IDS",
+    "latitud": 38.1408839,
+    "longitud": -3.7223163,
+    "maps": "https://www.google.com/maps/place/IDS+Q8+GASOLINERA/@38.1408839,-3.7223163,906m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd6e9da33be52891:0xf21eff109254e483!8m2!3d38.1408839!4d-3.7197414!16s%2Fg%2F11c6rhrcp9!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "CIEMPOZUELOS",
+    "proveedor": "IDS",
+    "latitud": 40.1302832,
+    "longitud": -3.6531187,
+    "maps": "https://www.google.com/maps/place/IDS/@40.1302832,-3.6531187,881m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd421b9d137687ef:0x3eed963a4eb2f4f3!8m2!3d40.1302832!4d-3.6505438!16s%2Fg%2F11xgf7rv43!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "MECO",
+    "proveedor": "IDS",
+    "latitud": 40.5300051,
+    "longitud": -3.2962726,
+    "maps": "https://www.google.com/maps/place/IDS+Meco/@40.5300051,-3.2962726,876m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd424db4285ad0dd:0x662dadac9760f6a5!8m2!3d40.5300051!4d-3.2936977!16s%2Fg%2F11bxfqqnmk!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "MOLINA DE SEGURA",
+    "proveedor": "IDS",
+    "latitud": 38.0875756,
+    "longitud": -1.2217437,
+    "maps": "https://www.google.com/maps/place/E.s+Ids+Molina+De+Segura/@38.0875756,-1.2217437,907m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd64789b212c606b:0x9634be3a69df3fd2!8m2!3d38.0875756!4d-1.2191688!16s%2Fg%2F11cn7vmxlv!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "HELLIN",
+    "proveedor": "IDS",
+    "latitud": 38.5451824,
+    "longitud": -1.7080387,
+    "maps": "https://www.google.com/maps/place/IDS+-+Hell%C3%ADn/@38.5451824,-1.7080387,901m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd642f254bf55b9b:0x8b6698bcc3cb1403!8m2!3d38.5451824!4d-1.7054638!16s%2Fg%2F11fzzf6nx0!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "PORRIÑO",
+    "proveedor": "IDS",
+    "latitud": 42.1310926,
+    "longitud": -8.6216658,
+    "maps": "https://www.google.com/maps/place/Q8+Gasolinera+Porri%C3%B1o/@42.1310926,-8.6216658,855m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd258306539f5ba5:0x89823fc7c0b5c35f!8m2!3d42.1310926!4d-8.6190909!16s%2Fg%2F11npr7nrfq!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "HORCAJO DE LA SIERRA",
+    "proveedor": "IDS",
+    "latitud": 41.9817484,
+    "longitud": -6.6300074,
+    "maps": "https://www.google.com/maps/place/Q8+Gasolinera+Horcajo+de+la+Sierra/@41.9817484,-6.6300074,438615m/data=!3m1!1e3!4m10!1m2!2m1!1sids+horcajo+de+la+sierra!3m6!1s0xd43fa8ef91d1077:0x46de21ba8d2e3b85!8m2!3d41.0971936!4d-3.5942436!15sChhpZHMgaG9yY2FqbyBkZSBsYSBzaWVycmFaGiIYaWRzIGhvcmNham8gZGUgbGEgc2llcnJhkgELZ2FzX3N0YXRpb26aASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUlNiM1JmVGxwbkVBReABAPoBBAgAEDw!16s%2Fg%2F11c44cm8cr!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "ARANDA DE DUERO",
+    "proveedor": "BEROIL",
+    "latitud": 41.666697,
+    "longitud": -3.7292759,
+    "maps": "https://www.google.com/maps/place/Beroil+Aranda+de+Duero/@41.666697,-3.7292759,861m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd4427993e7774fd:0xdb40a0ec85ebc697!8m2!3d41.666697!4d-3.726701!16s%2Fg%2F11cncy8sbm!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "AGUILAR DE CAMPOO",
+    "proveedor": "BEROIL",
+    "latitud": 42.780777,
+    "longitud": -4.2522599,
+    "maps": "https://www.google.com/maps/place/Beroil+Aguilar/@42.780777,-4.2522599,846m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd488d4be6764415:0xe77fe54a1c1f4579!8m2!3d42.780777!4d-4.249685!16s%2Fg%2F11cncqr7ng!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "nombre": "CANTALEJO",
+    "proveedor": "BEROIL",
+    "latitud": 41.264503,
+    "longitud": -3.9319879,
+    "maps": "https://www.google.com/maps/place/Beroil+Cantalejo/@41.264503,-3.9319879,866m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd46b24329640c87:0x9b20a879f17b8c9!8m2!3d41.264503!4d-3.929413!16s%2Fg%2F11cnc_71cj!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
   }
 ]
