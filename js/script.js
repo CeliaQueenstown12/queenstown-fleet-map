@@ -30,7 +30,15 @@ async function inicializarMapa() {
 
     // Leer el archivo de estaciones
 
-    const respuesta = await fetch("data/estaciones.json");
+    const respuesta = await fetch("data/estaciones.json"
+
+        
+    );
+    console.log(respuesta);
+
+const estaciones = await respuesta.json();
+
+console.log(estaciones);
 
     const estaciones = await respuesta.json();
 
