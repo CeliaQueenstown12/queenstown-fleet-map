@@ -45,6 +45,9 @@ async function cargarEstaciones(){
     const respuesta = await fetch("data/estaciones.json");
 
     estaciones = await respuesta.json();
+    console.log("Estaciones cargadas:", estaciones.length);
+
+console.log(estaciones);
 
     estaciones.forEach(crearMarcador);
 
