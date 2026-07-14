@@ -1,9 +1,23 @@
 [
-    {
-        "nombre": "Andoain",
-        "proveedor": "VRIO",
-        "latitud": 43.206943,
-        "longitud": -2.034616,
-        "maps": "https://www.google.com/maps/place/43.206943,-2.034616"
-    }
+  {
+    "nombre": "Andoain",
+    "proveedor": "VRIO",
+    "latitud": 43.206943,
+    "longitud": -2.034616,
+    "maps": "https://www.google.com/maps/place/43.206943,-2.034616"
+  },
+  {
+    "nombre": "Bera de Bidasoa",
+    "proveedor": "VRIO",
+    "latitud": 43.276101,
+    "longitud": -1.7013952,
+    "maps": "https://www.google.com/maps/place/43.276101,-1.7013952"
+  },
+  {
+    "nombre": "Rubí",
+    "proveedor": "VRIO",
+    "latitud": 41.469499,
+    "longitud": 2.029647,
+    "maps": "https://www.google.com/maps/place/41.469499,2.029647"
+  }
 ]

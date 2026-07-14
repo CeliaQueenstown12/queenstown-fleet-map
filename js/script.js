@@ -1,6 +1,19 @@
-function inicializarMapa() {
+alert("Script cargado");
 
-    const mapa = new google.maps.Map(document.getElementById("map"), {
+/*
+--------------------------------------------------
+Queenstown Fleet Map
+Versión 1.0.0
+--------------------------------------------------
+*/
+
+let mapa;
+
+async function inicializarMapa() {
+
+    // Crear el mapa centrado en España
+
+    mapa = new google.maps.Map(document.getElementById("map"), {
 
         center: {
             lat: 40.4168,
@@ -10,24 +23,46 @@ function inicializarMapa() {
         zoom: 6,
 
         mapTypeControl: false,
-
         streetViewControl: false,
-
         fullscreenControl: true
 
     });
-    
-    const marcador = new google.maps.Marker({
 
-    position: {
-        lat: 43.206943,
-        lng: -2.034616
-    },
+    // Leer el archivo de estaciones
 
-    map: mapa,
+    const respuesta = await fetch("data/estaciones.json");
 
-    title: "Andoain"
+    const estaciones = await respuesta.json();
 
-});
+    // Caja que utilizará Google para calcular el zoom
+
+    const limites = new google.maps.LatLngBounds();
+
+    // Crear una chincheta por cada estación
+
+    estaciones.forEach(estacion => {
+
+        const marcador = new google.maps.Marker({
+
+            position: {
+                lat: estacion.latitud,
+                lng: estacion.longitud
+            },
+
+            map: mapa,
+
+            title: estacion.nombre
+
+        });
+
+        // Añadir la estación a los límites
+
+        limites.extend(marcador.getPosition());
+
+    });
+
+    // Ajustar automáticamente el mapa
+
+    mapa.fitBounds(limites);
 
 }
